@@ -1,1 +1,31 @@
+body{
+  background-image: linear-gradient(#FF9270, #FEB172, #FFEC99);
+}
+h1{
+  font-size:280%;
+  font-family:"Lucida Console", "Courier New", monospace;
+}
 
+p{
+  font-size:160%;
+  font-family: "Papyrus", Fantasy;
+}
+ul{
+ list-style-type: none;
+ width:100%;
+ text-align: center;
+}
+li{
+  float:left;
+}
+li a{
+  color:black;
+  padding: 50px;
+  text-decoration-line: none;
+  font-family:"Papyrus", Fantasy;
+  font-size:120%;
+}
+li a:hover{
+  background-color:white;
+  color:#FF3366;
+}
